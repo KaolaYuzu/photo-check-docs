@@ -1,6 +1,6 @@
 {
   "name": "photo-check-docs",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "private": true,
   "type": "module",
   "scripts": {
@@ -9,13 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "6.0.2",
-    "vite": "8.0.13",
-    "react": "19.2.6",
-    "react-dom": "19.2.6",
-    "google-auth-library": "10.6.2",
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.11",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "google-auth-library": "9.15.1",
     "xlsx": "0.18.5",
-    "docx": "9.6.1",
+    "docx": "8.5.0",
     "file-saver": "2.0.5"
   },
   "devDependencies": {},
